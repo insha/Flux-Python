@@ -1,0 +1,85 @@
+flux package
+============
+
+Subpackages
+-----------
+
+.. toctree::
+
+    flux.tests
+
+Submodules
+----------
+
+flux\.constants module
+----------------------
+
+.. automodule:: flux.constants
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+flux\.errors module
+-------------------
+
+.. automodule:: flux.errors
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+flux\.event module
+------------------
+
+.. automodule:: flux.event
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+flux\.helpers module
+--------------------
+
+.. automodule:: flux.helpers
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+flux\.machine module
+--------------------
+
+.. automodule:: flux.machine
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+flux\.state module
+------------------
+
+.. automodule:: flux.state
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+flux\.transition module
+-----------------------
+
+.. automodule:: flux.transition
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+flux\.version module
+--------------------
+
+.. automodule:: flux.version
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: flux
+    :members:
+    :undoc-members:
+    :show-inheritance:

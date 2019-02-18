@@ -1,0 +1,38 @@
+flux\.tests package
+===================
+
+Submodules
+----------
+
+flux\.tests\.test\_event module
+-------------------------------
+
+.. automodule:: flux.tests.test_event
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+flux\.tests\.test\_state module
+-------------------------------
+
+.. automodule:: flux.tests.test_state
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+flux\.tests\.test\_state\_machine module
+----------------------------------------
+
+.. automodule:: flux.tests.test_state_machine
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: flux.tests
+    :members:
+    :undoc-members:
+    :show-inheritance:
