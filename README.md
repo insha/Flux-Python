@@ -18,7 +18,7 @@ you with an elegant API for implementing state machines in your project.
 
 From the cheese shop:
 
-    pip install Flux
+    pip install flux-insha
 
 From source:
 

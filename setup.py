@@ -13,7 +13,7 @@ with open('README.md', 'r') as fh:
     readme = fh.read()
 
 setup(
-    name='Flux',
+    name='flux-insha',
     version=version,
     url='https://github.com/insha/Flux',
     include_package_data=True,
