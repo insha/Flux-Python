@@ -1,6 +1,6 @@
 # Flux: A State Machine
 
-[![pipeline status](https://gitlab.com/insha/Flux/badges/master/pipeline.svg)](https://gitlab.com/insha/Flux/commits/master) [![coverage report](https://gitlab.com/insha/Flux/badges/master/coverage.svg)](https://gitlab.com/insha/Flux/commits/master)
+[![Python package](https://github.com/insha/Flux-Python/actions/workflows/python-package.yml/badge.svg?branch=main)](https://github.com/insha/Flux-Python/actions/workflows/python-package.yml) [![coverage report](https://gitlab.com/insha/Flux/badges/master/coverage.svg)](https://gitlab.com/insha/Flux/commits/master)
 
 Flux is a lightweight library that provides an API for implementing a state machine in 
 Python. It is a work-in-progress, but has some really cool features (see below) and unit tested.
